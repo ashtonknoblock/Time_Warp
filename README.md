@@ -1,0 +1,2 @@
+# Time_Warp
+A pair of functions: a generator and a validator. The generator takes in no arguments and spits out a "random" key with attributes (length, specific characters, etc.) of your choosing. If that key is fed into the validator (as the only argument) then the validator should be able to respond with a boolean showing whether or not the key is valid (and, in theory, the person actually paid us money to use our software).
